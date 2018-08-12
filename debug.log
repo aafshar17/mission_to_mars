@@ -1,0 +1,4 @@
+[0509/182649.830:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0509/182649.846:ERROR:exception_snapshot_win.cc(88)] thread ID 18324 not found in process
+[0509/182649.846:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0801/122352.628:ERROR:crash_report_database_win.cc(428)] unexpected header
